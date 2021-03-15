@@ -1,0 +1,6 @@
+framework module Pods_USATU6_USATU6UITests {
+  umbrella header "Pods-USATU6-USATU6UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

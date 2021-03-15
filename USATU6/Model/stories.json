@@ -1,0 +1,78 @@
+{
+    "count": 3,
+    "stories": [
+        {
+            "id": "a1",
+            "last_updated": 1504799962,
+            "union": "AviaLife",
+            "unionImage": "https://createtogether.ru/public/images/communities/icon-avialife-40.png",
+            "user": {
+                "id": "b1",
+                "name": "Из России в Америку: о программе Work and Travel",
+                "picture": "https://sun9-39.userapi.com/c841536/v841536498/1e2ee/rFsL9mCQEDQ.jpg"
+            },
+            "snaps_count": 1,
+            "snaps": [
+                {
+                    "id": "c1",
+                    "mime_type": "image",
+                    "url": "https://sun9-39.userapi.com/c841536/v841536498/1e2ee/rFsL9mCQEDQ.jpg",
+                    "last_updated": "12h"
+                }
+            ]
+        },
+        {
+            "id": "a2",
+            "last_updated": 1504799962,
+            "user": {
+                "id": "b2",
+                "name": "Общага: инструкция по применению.",
+                "picture": "https://createtogether.ru/public/images/banner.jpg"
+            },
+            "snaps_count": 3,
+            "union": "СтудентТВ",
+            "unionImage": "https://createtogether.ru/public/images/communities/icon-studenttv-40.png",
+            "snaps": [
+                {
+                    "id": "c8",
+                    "mime_type": "video",
+                    "url": "https://funnymp4.net/files/download/id/3466",
+                    "last_updated": "1m"
+                },
+                {
+                    "id": "c9",
+                    "mime_type": "image",
+                    "url": "https://static1.squarespace.com/static/5397b451e4b07f25d1682866/5643b980e4b0eaf052b84a23/5643b983e4b00c09aadce12d/1447278987246/Apple-iPhone-5-5s-Wallpaper-Good-Dino-3.jpg",
+                    "last_updated": "1m"
+                },
+                {
+                    "id": "c10",
+                    "mime_type": "video",
+                    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+                    "last_updated": "6h"
+                }
+            ]
+        },
+        {
+            "id": "a4",
+            "last_updated": 1504799092,
+            "user": {
+                "id": "b2",
+                "name": "Интервью.",
+                "picture": "https://sun9-64.userapi.com/c853516/v853516129/1d9ec1/6eOYHeyncpA.jpg",
+                "last_updated": "13m"
+            },
+            "snaps_count": 1,
+            "union": "Тупишки",
+            "unionImage": "https://sun9-64.userapi.com/c853516/v853516129/1d9ec1/6eOYHeyncpA.jpg",
+            "snaps": [
+                {
+                    "id": "c16",
+                    "mime_type": "image",
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg",
+                    "last_updated": "14m"
+                }
+            ]
+            
+        }]
+}
